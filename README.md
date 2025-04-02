@@ -4,6 +4,12 @@
 안녕하세요.
 영남대학교 컴퓨터공학과 22학번 강명구입니다.
 
+## Career
+- 영남대학교 디지털융합대학교 컴퓨터학부 컴퓨터공학과 22학번 강명구
+
+## Links
+- E-mail - kmyungg0709@naver.com
+
 <!--
 **MG-Kang-79/MG-Kang-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
